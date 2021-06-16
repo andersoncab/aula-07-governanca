@@ -41,6 +41,7 @@ h3 {
   color: #2a3747;
 }
 
+
 h1 {
   font-size: 40px;
 }
@@ -142,7 +143,7 @@ a {
 }
 
 .WelcomeView {
-  background: url("food.jpg") left bottom;
+  background: url("coffee.jpg") left bottom;
   background-size: cover;
 }
 
